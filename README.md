@@ -26,9 +26,12 @@ This analysis helps in understanding whether weather conditions have any influen
 | Weather & COVID datasets | Raw inputs for analysis |
 
 ---
-## Dataset Source
+## Datasets
 
-**URL** - https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset
+**URLs** 
+1. https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset
+2. https://www.kaggle.com/eeemonts/weatherclimate-data-covid19 3.
+3. https://www.kaggle.com/paultimothymooney/coronavirus-covid19-mortality-rate-by-country
 
 ---
 
